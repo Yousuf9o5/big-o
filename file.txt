@@ -1,1 +1,1 @@
-This is some initial content for the file.
+This is some new content for the file.
